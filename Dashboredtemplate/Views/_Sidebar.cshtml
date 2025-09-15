@@ -1,0 +1,32 @@
+﻿<div class="sidebar">
+    <div class="sidebar-header">
+        <h3>Dashboard Menu</h3>
+    </div>
+
+    <ul class="list-unstayed components">
+        <li class="active">
+            <a asp-controller="Home" asp-action="Index">
+                <i class="fas fa-home"></i> Dashboard
+            </a>
+        </li>
+        <li>
+            <a href="#reportsSubmenu" data-bs-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                <i class="fas fa-chart-bar"></i> Reports
+            </a>
+            <ul class="collapse list-unstifled" id="reportsSubmenu">
+                <li><a asp-controller="Reports" asp-action="Sales">Sales Reports</a></li>
+                <li><a asp-controller="Reports" asp-action="Analytics">Analytics</a></li>
+            </ul>
+        </li>
+        <li>
+            <a asp-controller="Users" asp-action="Index">
+                <i class="fas fa-users"></i> Users
+            </a>
+        </li>
+        <li>
+            <a asp-controller="Settings" asp-action="Index">
+                <i class="fas fa-cog"></i> Settings
+            </a>
+        </li>
+    </ul>
+</div>
