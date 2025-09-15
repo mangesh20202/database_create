@@ -5572,11 +5572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Dashboredtemplate\\Dashboredtemplate\\Dashboredtemplate.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\WebApplicationSample2\\database_create\\Dashboredtemplate\\Dashboredtemplate.csproj",
       "projectName": "Dashboredtemplate",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Dashboredtemplate\\Dashboredtemplate\\Dashboredtemplate.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\WebApplicationSample2\\database_create\\Dashboredtemplate\\Dashboredtemplate.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Dashboredtemplate\\Dashboredtemplate\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\WebApplicationSample2\\database_create\\Dashboredtemplate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
